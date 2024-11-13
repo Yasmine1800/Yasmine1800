@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmine1800&show_icons=true&locale=en&layout=compact" alt="yasmine1800" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmine1800&show_icons=true&locale=en" alt="yasmine1800" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasmine1800&" alt="yasmine1800" /></p>
